@@ -1,0 +1,27 @@
+{
+    "name": "wrapper-var-cm/sdc",
+    "version": "1.1.5",
+    "description": "Простая и удобная библиотека для работы с API",
+    
+    "main": "sdc.js",
+    "license": "MIT",
+    
+    "author": {
+        "name": "DARK-MBR",
+        "url": "https://xvideos.com/"
+    },
+
+    "keywords": [
+        "sdc",
+        "discord",
+        "api",
+        "server-discord",
+        "sdc-api",
+        "wrapper-var-cm/sdc"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
